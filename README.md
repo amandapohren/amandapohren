@@ -1,4 +1,4 @@
-## Olá eu sou a Amanda Pohren!
+## Hello I am Amanda Pohren!
 
 📚 Technology Student
 
