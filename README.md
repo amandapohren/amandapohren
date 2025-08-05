@@ -1,6 +1,6 @@
 ## Hello I am Amanda Pohren!
 
-📚 Technology Student
+📚 Software Developer
 
 <div align="center">
   <a href="https://github.com/amandapohren">
